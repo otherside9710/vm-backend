@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.vm.peliculas.MyasesorMbellApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 36.666 sec - in com.vm.peliculas.MyasesorMbellApplicationTests
